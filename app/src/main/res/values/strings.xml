@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="imageview">imageView</string>
+    <string name="dummy_title">Before-After Portraits of Agricultural Land Recovering from Drought</string>
+    <string name="author">Nathania Slavi</string>
+    <string name="text_date">1 April 2021</string>
+    <string name="all">All</string>
+    <string name="text_information">Information</string>
+    <string name="text_magazine">Magazine</string>
+    <string name="text_media">Media</string>
+    <string name="text_business">Business</string>
+    <string name="text_international">International</string>
+    <string name="text_breaking_news">Breaking News</string>
+</resources>
