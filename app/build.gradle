@@ -23,12 +23,14 @@ android {
             minifyEnabled false
             buildConfigField("String","BASE_URL", '"https://newsapi.org/v2/"')
             buildConfigField("String", "API_KEY", '"df94a5d76b064303845138e3c42c8dd6"')
+            buildConfigField("String", "COUNTRY", '"id"')
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
         debug {
             minifyEnabled false
             buildConfigField("String","BASE_URL", '"https://newsapi.org/v2/"')
             buildConfigField("String", "API_KEY", '"df94a5d76b064303845138e3c42c8dd6"')
+            buildConfigField("String", "COUNTRY", '"id"')
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
